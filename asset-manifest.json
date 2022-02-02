@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Hamming-codes/static/css/main.369df1f7.chunk.css",
-    "main.js": "/Hamming-codes/static/js/main.bf315971.chunk.js",
-    "main.js.map": "/Hamming-codes/static/js/main.bf315971.chunk.js.map",
+    "main.css": "/Hamming-codes/static/css/main.4118c8f7.chunk.css",
+    "main.js": "/Hamming-codes/static/js/main.4a037fe0.chunk.js",
+    "main.js.map": "/Hamming-codes/static/js/main.4a037fe0.chunk.js.map",
     "runtime-main.js": "/Hamming-codes/static/js/runtime-main.1c234b8b.js",
     "runtime-main.js.map": "/Hamming-codes/static/js/runtime-main.1c234b8b.js.map",
     "static/js/2.2b01b504.chunk.js": "/Hamming-codes/static/js/2.2b01b504.chunk.js",
     "static/js/2.2b01b504.chunk.js.map": "/Hamming-codes/static/js/2.2b01b504.chunk.js.map",
     "index.html": "/Hamming-codes/index.html",
-    "precache-manifest.50288deee3f5882ee22bc85ac14de19c.js": "/Hamming-codes/precache-manifest.50288deee3f5882ee22bc85ac14de19c.js",
+    "precache-manifest.23c0a4ce4162900b5404ffb3abf731ee.js": "/Hamming-codes/precache-manifest.23c0a4ce4162900b5404ffb3abf731ee.js",
     "service-worker.js": "/Hamming-codes/service-worker.js",
-    "static/css/main.369df1f7.chunk.css.map": "/Hamming-codes/static/css/main.369df1f7.chunk.css.map",
+    "static/css/main.4118c8f7.chunk.css.map": "/Hamming-codes/static/css/main.4118c8f7.chunk.css.map",
     "static/js/2.2b01b504.chunk.js.LICENSE.txt": "/Hamming-codes/static/js/2.2b01b504.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1c234b8b.js",
     "static/js/2.2b01b504.chunk.js",
-    "static/css/main.369df1f7.chunk.css",
-    "static/js/main.bf315971.chunk.js"
+    "static/css/main.4118c8f7.chunk.css",
+    "static/js/main.4a037fe0.chunk.js"
   ]
 }
