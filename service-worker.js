@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Hamming-codes/precache-manifest.a21ea10189c5d5bad1e0bd642c586ef1.js"
+  "/Hamming-codes/precache-manifest.327346e261fc8ac1b2930964b7c0c9e8.js"
 );
 
 self.addEventListener('message', (event) => {
